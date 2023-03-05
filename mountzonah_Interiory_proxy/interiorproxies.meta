@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SInteriorOrderData>
+	<startFrom value="2200" />
+	<proxies>
+	<Item>urgence_milo</Item>	<!-- carpack_floor -->
+	<Item>hei_bh1_rd_strm_5</Item>
+	<Item>mz_carpack_milo</Item>
+	<Item>operation_floor</Item>	<!-- operation_floor -->
+	<Item>room_milo</Item>	<!-- room_floor -->
+	<Item>bh1_occl_05</Item>	<!-- urgence_floor -->
+	<Item>hei_bh1_22_strm_0</Item>
+	<Item>urgence_milo</Item>
+	</proxies>
+</SInteriorOrderData>
